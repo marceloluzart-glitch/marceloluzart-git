@@ -53,8 +53,10 @@ Bachelor in Biomedicine, postgraduate, and currently pursuing a **Ph.D. in Patho
 
 ---
 
+---
+
 ### 📈 Estatísticas do GitHub / GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloluzart-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marceloluzart-git&theme=radical" alt="GitHub Stats" />
 </p>
